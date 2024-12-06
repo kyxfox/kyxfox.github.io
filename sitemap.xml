@@ -2,23 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>hittps://kyxfox.github.io/</loc>
+    <loc>https://kyxfox.com/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>hittps://kyxfox.github.io/posts/my-first-post/</loc>
+    <loc>https://kyxfox.com/posts/my-first-post/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>hittps://kyxfox.github.io/posts/</loc>
+    <loc>https://kyxfox.com/posts/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>hittps://kyxfox.github.io/archives/</loc>
+    <loc>https://kyxfox.com/archives/</loc>
   </url><url>
-    <loc>hittps://kyxfox.github.io/categories/</loc>
+    <loc>https://kyxfox.com/categories/</loc>
   </url><url>
-    <loc>hittps://kyxfox.github.io/search/</loc>
+    <loc>https://kyxfox.com/search/</loc>
   </url><url>
-    <loc>hittps://kyxfox.github.io/series/</loc>
-  </url><url>
-    <loc>hittps://kyxfox.github.io/tags/</loc>
+    <loc>https://kyxfox.com/tags/</loc>
   </url>
 </urlset>
