@@ -10,9 +10,9 @@
     <atom:link href="https://kyxfox.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://kyxfox.com/posts/my-first-post/</link>
+      <link>https://kyxfox.com/posts/my-first-post/my-first-post/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://kyxfox.com/posts/my-first-post/</guid>
+      <guid>https://kyxfox.com/posts/my-first-post/my-first-post/</guid>
       <description></description>
     </item>
   </channel>
