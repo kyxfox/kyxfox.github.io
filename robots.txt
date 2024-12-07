@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://kyxfox.com/sitemap.xml
