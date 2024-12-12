@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Kyxfox</title>
-    <link>https://kyxfox.com/</link>
-    <description>Recent content on Kyxfox</description>
+    <title>IOS on Kyxfox</title>
+    <link>https://kyxfox.com/tags/ios/</link>
+    <description>Recent content in IOS on Kyxfox</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kyxfox.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kyxfox.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First App</title>
       <link>https://kyxfox.com/ios-apps/my-first-app/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://kyxfox.com/ios-apps/my-first-app/</guid>
       <description>An amazing app that helps users manage tasks.</description>
-    </item>
-    <item>
-      <title>My First Blog Post</title>
-      <link>https://kyxfox.com/posts/general/my-first-post/my-first-post/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://kyxfox.com/posts/general/my-first-post/my-first-post/</guid>
-      <description>Learn how to create a blog page in Hugo.</description>
     </item>
   </channel>
 </rss>
