@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kyxfox.com/tags/ios_development/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kyxfox.com/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kyxfox.com/posts/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kyxfox.com/posts/ios-development/resolving-update-issue-for-bi-directional-relationship-models/resolving-update-issue-for-bi-directional-relationship-models/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kyxfox.com/tags/swift/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kyxfox.com/tags/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kyxfox.com/tags/ios/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kyxfox.com/ios-apps/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kyxfox.com/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kyxfox.com/ios-apps/my-first-app/</loc>
@@ -16,21 +31,6 @@
   </url><url>
     <loc>https://kyxfox.com/tags/productivity/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kyxfox.com/tags/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kyxfox.com/tags/hugo/</loc>
-    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kyxfox.com/posts/general/my-first-post/my-first-post/</loc>
-    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kyxfox.com/posts/</loc>
-    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kyxfox.com/tags/tutorial/</loc>
-    <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kyxfox.com/archives/</loc>
   </url><url>
