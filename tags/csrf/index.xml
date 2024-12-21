@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CSRF on Kyxfox</title>
+    <link>https://kyxfox.com/tags/csrf/</link>
+    <description>Recent content in CSRF on Kyxfox</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kyxfox.com/tags/csrf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction of CSRF</title>
+      <link>https://kyxfox.com/posts/cybersecurity/introduction-of-csrf/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://kyxfox.com/posts/cybersecurity/introduction-of-csrf/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;Cross-site request forgery (also known as CSRF) is a web security vulnerability that allows an attacker to induce users to perform actions that they do not intend to perform. It allows an attacker to partly circumvent the same origin policy, which is designed to prevent different websites from interfering with each other.&lt;/p&gt;
+&lt;h4 id=&#34;samesite-cookies&#34;&gt;SameSite cookies&lt;/h4&gt;
+&lt;p&gt;#SameSite
+SameSite is a browser security mechanism that determines when a website&amp;rsquo;s cookies are included in requests originating from other websites.
+In the context of SameSite cookie restrictions, a site is defined as the top-level domain (TLD), usually something like &lt;code&gt;.com&lt;/code&gt; or &lt;code&gt;.net&lt;/code&gt;, plus one additional level of the domain name. This is often referred to as the TLD+1.
+When determining whether a request is same-site or not, the URL scheme is also taken into consideration. This means that a link from &lt;code&gt;http://app.example.com&lt;/code&gt; to &lt;code&gt;https://app.example.com&lt;/code&gt; is treated as cross-site by most browsers.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
